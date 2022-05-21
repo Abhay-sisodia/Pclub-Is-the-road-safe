@@ -4,7 +4,7 @@ I have taken road safety data from kaggle and applied machine learning algorithm
 
 The link for the data set is https://www.kaggle.com/datasets/qasimhassan/reducing-the-number-of-high-fatality-accidents?select=accident-data.csv
 
-Ans 2) I have applied these algorithms on my dataset and finally i've decided to go with Linear Regression since it is giving the lowest mean_squared_error 
+Ans 2) After gaininig insights from the data with the hep of exploratory data analysis and analyzing the correlations present in the dataset ,I have applied these algorithms on my dataset and finally i've decided to go with Linear Regression since it is giving the lowest mean_squared_error 
 
 Algorithm                          ---- Mean_squared_error
 
