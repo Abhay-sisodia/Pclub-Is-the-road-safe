@@ -6,13 +6,13 @@ The link for the data set is https://www.kaggle.com/datasets/qasimhassan/reducin
 
 Ans 2) I have applied these algorithms on my dataset and finally i've decided to go with Linear Regression since it is giving the lowest mean_squared_error 
 
-Algorithm                           Mean_squared_error
+Algorithm                          ---- Mean_squared_error
 
-Decision Tree Regression             0.9301236044657097
+Decision Tree Regression            ---- 0.9301236044657097
 
-Random Forest Regression             0.4226970793460925
+Random Forest Regression            ---- 0.4226970793460925
 
-Linear Regression                    0.4031674958482056
+Linear Regression                  ----  0.4031674958482056
 
 I have also used other parameter of evaluations also like mean_absolute_error,r2_score etc . They were also forming a similar trend.
 So that's why i have decided to go with Linear_Regression algorithm.
